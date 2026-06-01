@@ -1,6 +1,6 @@
 # RateMyProfessor Analyzer
 
-A Python tool that scrapes and analyzes professor data from RateMyProfessor. Search for any professor by name and school to retrieve ratings, grade distributions, and student reviews — no URL needed. Review data is visualized through charts and summarized using an AI-generated writeup via Groq's LLaMA 3.3 70B API.
+A Python tool that scrapes and analyzes professor data from RateMyProfessor. Search for any professor by name and school to retrieve ratings, grade distributions, and student reviews (no URL needed). Review data is visualized through charts and summarized using an AI-generated writeup via Groq's LLaMA 3.3 70B API.
 
 ---
 
